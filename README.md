@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Josh 👋
+
+🎓 2nd-year Software Engineering student at Victoria University of Wellington 
+🌱 Learning: software design patterns, cybersecurity, networks, and full-stack development.
+💡 Interests: backend development, cybersecurity, cloud, and AI.
+
 
 <!--
 **joshuapinpin/joshuapinpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
