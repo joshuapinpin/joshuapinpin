@@ -7,8 +7,7 @@
 ## 🛠️ Tech Stack
 💻 Languages: Java, C, C++, Python  
 🔧 Tools: Git, VS Code, Eclipse, Geany  
-☁️ Interested in Learning: JavaScript, AWS, Spring, REST APIs  
-
+☁️ Interested in Learning: JavaScript, AWS, Spring
 <!--
 **joshuapinpin/joshuapinpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
