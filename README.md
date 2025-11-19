@@ -1,4 +1,4 @@
-## Hi there, I'm Josh 👋
+## Hi, I'm Josh 👋
 
 🎓 2nd-year Software Engineering student at Victoria University of Wellington  
 🌱 Learning: software design patterns, cybersecurity, networks, and full-stack development.  
