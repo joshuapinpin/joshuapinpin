@@ -5,22 +5,22 @@
 🌱 Currently Learning: database systems engineering, cybersecurity, and full-stack development.  
 
 ## 📈 Goals
-🎯 Become a strong backend engineer
-☁️ Explore deeper into system design and cloud (AWS) 
-🚀 Build production-ready full-stack applications
+🎯 Become a strong backend engineer  
+☁️ Explore deeper into system design and cloud (AWS)  
+🚀 Build production-ready full-stack applications  
 
 ## 🛠️ Tech Stack
-💻 Languages: Java, C, C++, Python, Rust, JavaScript
-⚙️ Frameworks: Spring Boot, JUnit, React
-🔧 Tools: Git, GitHub, GitLab, Linux/Unix, VS Code, IntelliJ, Eclipse, AWS, Docker
-☁️ Interested in Learning: TypeScript, System Design, and Scalable Architectures.
+💻 Languages: Java, C, C++, Python, Rust, JavaScript  
+⚙️ Frameworks: Spring Boot, JUnit, React  
+🔧 Tools: Git, GitHub, GitLab, Linux/Unix, VS Code, IntelliJ, Eclipse, AWS, Docker  
+☁️ Interested in Learning: TypeScript, System Design, and Scalable Architectures.  
 
 ## 📌 Current Projects
-📊 Gradient: full-stack grade and assignment tracking web app (Spring Boot + React)
+📊 Gradient: full-stack grade and assignment tracking web app (Spring Boot + React)  
 
 ## 📫 Contact Me
-📧 Email: joshuapinpin@outlook.com
-💼 LinkedIn: linkedin.com/in/joshua-pinpin/
+📧 Email: joshuapinpin@outlook.com  
+💼 LinkedIn: linkedin.com/in/joshua-pinpin/  
 
 
 <!--
