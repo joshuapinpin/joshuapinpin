@@ -20,7 +20,7 @@
 
 ## 📫 Contact Me
 📧 Email: joshuapinpin@outlook.com  
-💼 LinkedIn: linkedin.com/in/joshua-pinpin/  
+💼 LinkedIn: [linkedin.com/in/joshua-pinpin](https://linkedin.com/in/joshua-pinpin/)
 
 
 <!--
