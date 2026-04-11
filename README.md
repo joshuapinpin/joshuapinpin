@@ -13,10 +13,10 @@
 💻 Languages: Java, C, C++, Python, Rust, JavaScript  
 ⚙️ Frameworks: Spring Boot, JUnit, React  
 🔧 Tools: Git, GitHub, GitLab, Linux/Unix, VS Code, IntelliJ, Eclipse, AWS, Docker  
-☁️ Interested in Learning: TypeScript, System Design, and Scalable Architectures.  
+☁️ Interested in Learning: TypeScript, Next.js, System Design, and Scalable Architectures.  
 
 ## 📌 Current Projects
-📊 Gradient: full-stack grade and assignment tracking web app (Spring Boot + React)  
+📊 Gradient: full-stack grade, assignment, and lecture tracking web app (Spring Boot + React)  
 
 ## 📫 Contact Me
 📧 Email: joshuapinpin@outlook.com  
